@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'E71687A97FEB8299BD1050FC'
+               BlueprintIdentifier = '40D3B8CB636B5F0BD91BBA61'
                BlueprintName = 'Pods-XyOCR'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-XyOCR.a'>

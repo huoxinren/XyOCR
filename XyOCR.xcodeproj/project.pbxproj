@@ -7,6 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		354995361F1F33B5001B1C9F /* JumpPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 354995351F1F33B5001B1C9F /* JumpPageViewController.m */; };
+		3549955D1F1F33E1001B1C9F /* Address.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995391F1F33E1001B1C9F /* Address.txt */; };
+		3549955E1F1F33E1001B1C9F /* AdminDiv.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3549953A1F1F33E1001B1C9F /* AdminDiv.txt */; };
+		3549955F1F1F33E1001B1C9F /* AdminDivCode.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3549953B1F1F33E1001B1C9F /* AdminDivCode.txt */; };
+		354995601F1F33E1001B1C9F /* back_camera_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3549953C1F1F33E1001B1C9F /* back_camera_btn@2x.png */; };
+		354995611F1F33E1001B1C9F /* back_camera_btn@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3549953D1F1F33E1001B1C9F /* back_camera_btn@3x.png */; };
+		354995621F1F33E1001B1C9F /* BrandModel.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3549953E1F1F33E1001B1C9F /* BrandModel.txt */; };
+		354995631F1F33E1001B1C9F /* flash_camera_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995421F1F33E1001B1C9F /* flash_camera_btn@2x.png */; };
+		354995641F1F33E1001B1C9F /* flash_camera_btn@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995431F1F33E1001B1C9F /* flash_camera_btn@3x.png */; };
+		354995651F1F33E1001B1C9F /* icon_ocr_return_black@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995441F1F33E1001B1C9F /* icon_ocr_return_black@2x.png */; };
+		354995661F1F33E1001B1C9F /* icon_ocr_return_black@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995451F1F33E1001B1C9F /* icon_ocr_return_black@3x.png */; };
+		354995671F1F33E1001B1C9F /* icon_pic@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995461F1F33E1001B1C9F /* icon_pic@2x.png */; };
+		354995681F1F33E1001B1C9F /* icon_pic@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995471F1F33E1001B1C9F /* icon_pic@3x.png */; };
+		354995691F1F33E1001B1C9F /* icon_scan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995481F1F33E1001B1C9F /* icon_scan@2x.png */; };
+		3549956A1F1F33E1001B1C9F /* icon_scan@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 354995491F1F33E1001B1C9F /* icon_scan@3x.png */; };
+		3549956B1F1F33E1001B1C9F /* IDCARDANDROID.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3549954A1F1F33E1001B1C9F /* IDCARDANDROID.xml */; };
+		3549956C1F1F33E1001B1C9F /* IDCARDANDROIDABROAD.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3549954B1F1F33E1001B1C9F /* IDCARDANDROIDABROAD.xml */; };
+		3549956D1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3549954C1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml */; };
+		3549956E1F1F33E1001B1C9F /* IssueAndBirth.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3549954D1F1F33E1001B1C9F /* IssueAndBirth.txt */; };
+		3549956F1F1F33E1001B1C9F /* NSString+Trim.m in Sources */ = {isa = PBXBuildFile; fileRef = 3549954F1F1F33E1001B1C9F /* NSString+Trim.m */; };
+		354995701F1F33E1001B1C9F /* OEMtest.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995511F1F33E1001B1C9F /* OEMtest.txt */; };
+		354995711F1F33E1001B1C9F /* pntWTPENPDA.lib in Resources */ = {isa = PBXBuildFile; fileRef = 354995521F1F33E1001B1C9F /* pntWTPENPDA.lib */; };
+		354995721F1F33E1001B1C9F /* ProvName.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995531F1F33E1001B1C9F /* ProvName.txt */; };
+		354995731F1F33E1001B1C9F /* SidIssueAuthority.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995541F1F33E1001B1C9F /* SidIssueAuthority.txt */; };
+		354995741F1F33E1001B1C9F /* Special.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995551F1F33E1001B1C9F /* Special.txt */; };
+		354995751F1F33E1001B1C9F /* thocr_Driver_License.lib in Resources */ = {isa = PBXBuildFile; fileRef = 354995561F1F33E1001B1C9F /* thocr_Driver_License.lib */; };
+		354995761F1F33E1001B1C9F /* THOCR_LP.lib in Resources */ = {isa = PBXBuildFile; fileRef = 354995571F1F33E1001B1C9F /* THOCR_LP.lib */; };
+		354995771F1F33E1001B1C9F /* THOCR_Num_Char.lib in Resources */ = {isa = PBXBuildFile; fileRef = 354995581F1F33E1001B1C9F /* THOCR_Num_Char.lib */; };
+		354995781F1F33E1001B1C9F /* THOCR_PDA.lib in Resources */ = {isa = PBXBuildFile; fileRef = 354995591F1F33E1001B1C9F /* THOCR_PDA.lib */; };
+		354995791F1F33E1001B1C9F /* THOCR_pspt.lib in Resources */ = {isa = PBXBuildFile; fileRef = 3549955A1F1F33E1001B1C9F /* THOCR_pspt.lib */; };
+		3549957A1F1F33E1001B1C9F /* libXyzOCR.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3549955C1F1F33E1001B1C9F /* libXyzOCR.a */; };
 		35B2360F1F1C98AB008A4AFC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2360E1F1C98AB008A4AFC /* main.m */; };
 		35B236121F1C98AB008A4AFC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236111F1C98AB008A4AFC /* AppDelegate.m */; };
 		35B236151F1C98AB008A4AFC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236141F1C98AB008A4AFC /* ViewController.m */; };
@@ -15,48 +46,6 @@
 		35B2361D1F1C98AB008A4AFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35B2361B1F1C98AB008A4AFC /* LaunchScreen.storyboard */; };
 		35B236281F1C98AB008A4AFC /* XyOCRTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236271F1C98AB008A4AFC /* XyOCRTests.m */; };
 		35B236331F1C98AB008A4AFC /* XyOCRUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236321F1C98AB008A4AFC /* XyOCRUITests.m */; };
-		35B236841F1CA0EB008A4AFC /* Address.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B236411F1CA0EB008A4AFC /* Address.txt */; };
-		35B236851F1CA0EB008A4AFC /* AdminDiv.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B236421F1CA0EB008A4AFC /* AdminDiv.txt */; };
-		35B236861F1CA0EB008A4AFC /* AdminDivCode.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B236431F1CA0EB008A4AFC /* AdminDivCode.txt */; };
-		35B236881F1CA0EB008A4AFC /* back_camera_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B236461F1CA0EB008A4AFC /* back_camera_btn@2x.png */; };
-		35B236891F1CA0EB008A4AFC /* back_camera_btn@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B236471F1CA0EB008A4AFC /* back_camera_btn@3x.png */; };
-		35B2368A1F1CA0EB008A4AFC /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2364B1F1CA0EB008A4AFC /* BaseNavigationController.m */; };
-		35B2368B1F1CA0EB008A4AFC /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2364D1F1CA0EB008A4AFC /* BaseViewController.m */; };
-		35B2368C1F1CA0EB008A4AFC /* BrandModel.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B2364E1F1CA0EB008A4AFC /* BrandModel.txt */; };
-		35B2368D1F1CA0EB008A4AFC /* CameraViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 35B236501F1CA0EB008A4AFC /* CameraViewController.mm */; };
-		35B2368E1F1CA0EB008A4AFC /* CertificateInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236541F1CA0EB008A4AFC /* CertificateInfo.m */; };
-		35B2368F1F1CA0EB008A4AFC /* CheckViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236561F1CA0EB008A4AFC /* CheckViewController.m */; };
-		35B236901F1CA0EC008A4AFC /* flash_camera_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B236571F1CA0EB008A4AFC /* flash_camera_btn@2x.png */; };
-		35B236911F1CA0EC008A4AFC /* flash_camera_btn@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B236581F1CA0EB008A4AFC /* flash_camera_btn@3x.png */; };
-		35B236921F1CA0EC008A4AFC /* icon_ocr_return_black@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B236591F1CA0EB008A4AFC /* icon_ocr_return_black@2x.png */; };
-		35B236931F1CA0EC008A4AFC /* icon_ocr_return_black@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B2365A1F1CA0EB008A4AFC /* icon_ocr_return_black@3x.png */; };
-		35B236941F1CA0EC008A4AFC /* icon_pic@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B2365B1F1CA0EB008A4AFC /* icon_pic@2x.png */; };
-		35B236951F1CA0EC008A4AFC /* icon_pic@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B2365C1F1CA0EB008A4AFC /* icon_pic@3x.png */; };
-		35B236961F1CA0EC008A4AFC /* icon_scan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B2365D1F1CA0EB008A4AFC /* icon_scan@2x.png */; };
-		35B236971F1CA0EC008A4AFC /* icon_scan@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B2365E1F1CA0EB008A4AFC /* icon_scan@3x.png */; };
-		35B236981F1CA0EC008A4AFC /* IDCARDANDROID.xml in Resources */ = {isa = PBXBuildFile; fileRef = 35B2365F1F1CA0EB008A4AFC /* IDCARDANDROID.xml */; };
-		35B236991F1CA0EC008A4AFC /* IDCARDANDROIDABROAD.xml in Resources */ = {isa = PBXBuildFile; fileRef = 35B236601F1CA0EB008A4AFC /* IDCARDANDROIDABROAD.xml */; };
-		35B2369A1F1CA0EC008A4AFC /* IDCLASSIFIERANDROID.xml in Resources */ = {isa = PBXBuildFile; fileRef = 35B236611F1CA0EB008A4AFC /* IDCLASSIFIERANDROID.xml */; };
-		35B2369C1F1CA0EC008A4AFC /* IssueAndBirth.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B236631F1CA0EB008A4AFC /* IssueAndBirth.txt */; };
-		35B2369D1F1CA0EC008A4AFC /* JumpPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236651F1CA0EB008A4AFC /* JumpPageViewController.m */; };
-		35B2369E1F1CA0EC008A4AFC /* libBankCardRecogPro.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 35B236661F1CA0EB008A4AFC /* libBankCardRecogPro.a */; };
-		35B2369F1F1CA0EC008A4AFC /* libWintoneCardOCR.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 35B236671F1CA0EB008A4AFC /* libWintoneCardOCR.a */; };
-		35B236A11F1CA0EC008A4AFC /* NSString+Trim.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2366A1F1CA0EB008A4AFC /* NSString+Trim.m */; };
-		35B236A21F1CA0EC008A4AFC /* OCRMainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2366C1F1CA0EB008A4AFC /* OCRMainView.m */; };
-		35B236A31F1CA0EC008A4AFC /* OEMtest.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B2366D1F1CA0EB008A4AFC /* OEMtest.txt */; };
-		35B236A41F1CA0EC008A4AFC /* OverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2366F1F1CA0EB008A4AFC /* OverView.m */; };
-		35B236A51F1CA0EC008A4AFC /* pntWTPENPDA.lib in Resources */ = {isa = PBXBuildFile; fileRef = 35B236701F1CA0EB008A4AFC /* pntWTPENPDA.lib */; };
-		35B236A61F1CA0EC008A4AFC /* ProvName.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B236711F1CA0EB008A4AFC /* ProvName.txt */; };
-		35B236A71F1CA0EC008A4AFC /* SidIssueAuthority.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B236721F1CA0EB008A4AFC /* SidIssueAuthority.txt */; };
-		35B236A81F1CA0EC008A4AFC /* Special.txt in Resources */ = {isa = PBXBuildFile; fileRef = 35B236741F1CA0EB008A4AFC /* Special.txt */; };
-		35B236A91F1CA0EC008A4AFC /* thocr_Driver_License.lib in Resources */ = {isa = PBXBuildFile; fileRef = 35B236751F1CA0EB008A4AFC /* thocr_Driver_License.lib */; };
-		35B236AA1F1CA0EC008A4AFC /* THOCR_LP.lib in Resources */ = {isa = PBXBuildFile; fileRef = 35B236761F1CA0EB008A4AFC /* THOCR_LP.lib */; };
-		35B236AB1F1CA0EC008A4AFC /* THOCR_Num_Char.lib in Resources */ = {isa = PBXBuildFile; fileRef = 35B236771F1CA0EB008A4AFC /* THOCR_Num_Char.lib */; };
-		35B236AC1F1CA0EC008A4AFC /* THOCR_PDA.lib in Resources */ = {isa = PBXBuildFile; fileRef = 35B236781F1CA0EB008A4AFC /* THOCR_PDA.lib */; };
-		35B236AD1F1CA0EC008A4AFC /* THOCR_pspt.lib in Resources */ = {isa = PBXBuildFile; fileRef = 35B236791F1CA0EB008A4AFC /* THOCR_pspt.lib */; };
-		35B236AE1F1CA0EC008A4AFC /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2367B1F1CA0EB008A4AFC /* UIViewExt.m */; };
-		35B236B01F1CA0EC008A4AFC /* WTCameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236801F1CA0EB008A4AFC /* WTCameraViewController.m */; };
-		35B236B11F1CA0EC008A4AFC /* WTOverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B236821F1CA0EB008A4AFC /* WTOverView.m */; };
 		35B236B41F1CA112008A4AFC /* wtproject.lsc in Resources */ = {isa = PBXBuildFile; fileRef = 35B236B31F1CA112008A4AFC /* wtproject.lsc */; };
 		35B236B61F1CA687008A4AFC /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 35B236B51F1CA687008A4AFC /* libxml2.tbd */; };
 		35B236B81F1CA695008A4AFC /* libiconv.2.4.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 35B236B71F1CA695008A4AFC /* libiconv.2.4.0.tbd */; };
@@ -90,6 +79,44 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		354995341F1F33B5001B1C9F /* JumpPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JumpPageViewController.h; sourceTree = "<group>"; };
+		354995351F1F33B5001B1C9F /* JumpPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JumpPageViewController.m; sourceTree = "<group>"; };
+		354995391F1F33E1001B1C9F /* Address.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Address.txt; sourceTree = "<group>"; };
+		3549953A1F1F33E1001B1C9F /* AdminDiv.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AdminDiv.txt; sourceTree = "<group>"; };
+		3549953B1F1F33E1001B1C9F /* AdminDivCode.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AdminDivCode.txt; sourceTree = "<group>"; };
+		3549953C1F1F33E1001B1C9F /* back_camera_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back_camera_btn@2x.png"; sourceTree = "<group>"; };
+		3549953D1F1F33E1001B1C9F /* back_camera_btn@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back_camera_btn@3x.png"; sourceTree = "<group>"; };
+		3549953E1F1F33E1001B1C9F /* BrandModel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BrandModel.txt; sourceTree = "<group>"; };
+		3549953F1F1F33E1001B1C9F /* CertificateDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CertificateDefine.h; sourceTree = "<group>"; };
+		354995401F1F33E1001B1C9F /* CertificateHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CertificateHeader.h; sourceTree = "<group>"; };
+		354995411F1F33E1001B1C9F /* CertificateInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CertificateInfo.h; sourceTree = "<group>"; };
+		354995421F1F33E1001B1C9F /* flash_camera_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flash_camera_btn@2x.png"; sourceTree = "<group>"; };
+		354995431F1F33E1001B1C9F /* flash_camera_btn@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flash_camera_btn@3x.png"; sourceTree = "<group>"; };
+		354995441F1F33E1001B1C9F /* icon_ocr_return_black@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_ocr_return_black@2x.png"; sourceTree = "<group>"; };
+		354995451F1F33E1001B1C9F /* icon_ocr_return_black@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_ocr_return_black@3x.png"; sourceTree = "<group>"; };
+		354995461F1F33E1001B1C9F /* icon_pic@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_pic@2x.png"; sourceTree = "<group>"; };
+		354995471F1F33E1001B1C9F /* icon_pic@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_pic@3x.png"; sourceTree = "<group>"; };
+		354995481F1F33E1001B1C9F /* icon_scan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_scan@2x.png"; sourceTree = "<group>"; };
+		354995491F1F33E1001B1C9F /* icon_scan@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_scan@3x.png"; sourceTree = "<group>"; };
+		3549954A1F1F33E1001B1C9F /* IDCARDANDROID.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = IDCARDANDROID.xml; sourceTree = "<group>"; };
+		3549954B1F1F33E1001B1C9F /* IDCARDANDROIDABROAD.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = IDCARDANDROIDABROAD.xml; sourceTree = "<group>"; };
+		3549954C1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = IDCLASSIFIERANDROID.xml; sourceTree = "<group>"; };
+		3549954D1F1F33E1001B1C9F /* IssueAndBirth.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IssueAndBirth.txt; sourceTree = "<group>"; };
+		3549954E1F1F33E1001B1C9F /* NSString+Trim.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Trim.h"; sourceTree = "<group>"; };
+		3549954F1F1F33E1001B1C9F /* NSString+Trim.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Trim.m"; sourceTree = "<group>"; };
+		354995501F1F33E1001B1C9F /* OCRMainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRMainView.h; sourceTree = "<group>"; };
+		354995511F1F33E1001B1C9F /* OEMtest.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OEMtest.txt; sourceTree = "<group>"; };
+		354995521F1F33E1001B1C9F /* pntWTPENPDA.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = pntWTPENPDA.lib; sourceTree = "<group>"; };
+		354995531F1F33E1001B1C9F /* ProvName.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ProvName.txt; sourceTree = "<group>"; };
+		354995541F1F33E1001B1C9F /* SidIssueAuthority.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SidIssueAuthority.txt; sourceTree = "<group>"; };
+		354995551F1F33E1001B1C9F /* Special.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Special.txt; sourceTree = "<group>"; };
+		354995561F1F33E1001B1C9F /* thocr_Driver_License.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = thocr_Driver_License.lib; sourceTree = "<group>"; };
+		354995571F1F33E1001B1C9F /* THOCR_LP.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_LP.lib; sourceTree = "<group>"; };
+		354995581F1F33E1001B1C9F /* THOCR_Num_Char.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_Num_Char.lib; sourceTree = "<group>"; };
+		354995591F1F33E1001B1C9F /* THOCR_PDA.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_PDA.lib; sourceTree = "<group>"; };
+		3549955A1F1F33E1001B1C9F /* THOCR_pspt.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_pspt.lib; sourceTree = "<group>"; };
+		3549955B1F1F33E1001B1C9F /* XyzOCR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XyzOCR.h; sourceTree = "<group>"; };
+		3549955C1F1F33E1001B1C9F /* libXyzOCR.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libXyzOCR.a; sourceTree = "<group>"; };
 		35B2360A1F1C98AB008A4AFC /* XyOCR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XyOCR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35B2360E1F1C98AB008A4AFC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		35B236101F1C98AB008A4AFC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -106,66 +133,6 @@
 		35B2362E1F1C98AB008A4AFC /* XyOCRUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XyOCRUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		35B236321F1C98AB008A4AFC /* XyOCRUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XyOCRUITests.m; sourceTree = "<group>"; };
 		35B236341F1C98AB008A4AFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		35B236411F1CA0EB008A4AFC /* Address.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Address.txt; sourceTree = "<group>"; };
-		35B236421F1CA0EB008A4AFC /* AdminDiv.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AdminDiv.txt; sourceTree = "<group>"; };
-		35B236431F1CA0EB008A4AFC /* AdminDivCode.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AdminDivCode.txt; sourceTree = "<group>"; };
-		35B236461F1CA0EB008A4AFC /* back_camera_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back_camera_btn@2x.png"; sourceTree = "<group>"; };
-		35B236471F1CA0EB008A4AFC /* back_camera_btn@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back_camera_btn@3x.png"; sourceTree = "<group>"; };
-		35B236481F1CA0EB008A4AFC /* BankCardRecogPro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BankCardRecogPro.h; sourceTree = "<group>"; };
-		35B236491F1CA0EB008A4AFC /* BankSlideLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BankSlideLine.h; sourceTree = "<group>"; };
-		35B2364A1F1CA0EB008A4AFC /* BaseNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseNavigationController.h; sourceTree = "<group>"; };
-		35B2364B1F1CA0EB008A4AFC /* BaseNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseNavigationController.m; sourceTree = "<group>"; };
-		35B2364C1F1CA0EB008A4AFC /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
-		35B2364D1F1CA0EB008A4AFC /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
-		35B2364E1F1CA0EB008A4AFC /* BrandModel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BrandModel.txt; sourceTree = "<group>"; };
-		35B2364F1F1CA0EB008A4AFC /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
-		35B236501F1CA0EB008A4AFC /* CameraViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = CameraViewController.mm; sourceTree = "<group>"; };
-		35B236511F1CA0EB008A4AFC /* CertificateDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CertificateDefine.h; sourceTree = "<group>"; };
-		35B236521F1CA0EB008A4AFC /* CertificateHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CertificateHeader.h; sourceTree = "<group>"; };
-		35B236531F1CA0EB008A4AFC /* CertificateInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CertificateInfo.h; sourceTree = "<group>"; };
-		35B236541F1CA0EB008A4AFC /* CertificateInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CertificateInfo.m; sourceTree = "<group>"; };
-		35B236551F1CA0EB008A4AFC /* CheckViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CheckViewController.h; sourceTree = "<group>"; };
-		35B236561F1CA0EB008A4AFC /* CheckViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CheckViewController.m; sourceTree = "<group>"; };
-		35B236571F1CA0EB008A4AFC /* flash_camera_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flash_camera_btn@2x.png"; sourceTree = "<group>"; };
-		35B236581F1CA0EB008A4AFC /* flash_camera_btn@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flash_camera_btn@3x.png"; sourceTree = "<group>"; };
-		35B236591F1CA0EB008A4AFC /* icon_ocr_return_black@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_ocr_return_black@2x.png"; sourceTree = "<group>"; };
-		35B2365A1F1CA0EB008A4AFC /* icon_ocr_return_black@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_ocr_return_black@3x.png"; sourceTree = "<group>"; };
-		35B2365B1F1CA0EB008A4AFC /* icon_pic@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_pic@2x.png"; sourceTree = "<group>"; };
-		35B2365C1F1CA0EB008A4AFC /* icon_pic@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_pic@3x.png"; sourceTree = "<group>"; };
-		35B2365D1F1CA0EB008A4AFC /* icon_scan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_scan@2x.png"; sourceTree = "<group>"; };
-		35B2365E1F1CA0EB008A4AFC /* icon_scan@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_scan@3x.png"; sourceTree = "<group>"; };
-		35B2365F1F1CA0EB008A4AFC /* IDCARDANDROID.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = IDCARDANDROID.xml; sourceTree = "<group>"; };
-		35B236601F1CA0EB008A4AFC /* IDCARDANDROIDABROAD.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = IDCARDANDROIDABROAD.xml; sourceTree = "<group>"; };
-		35B236611F1CA0EB008A4AFC /* IDCLASSIFIERANDROID.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = IDCLASSIFIERANDROID.xml; sourceTree = "<group>"; };
-		35B236631F1CA0EB008A4AFC /* IssueAndBirth.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IssueAndBirth.txt; sourceTree = "<group>"; };
-		35B236641F1CA0EB008A4AFC /* JumpPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JumpPageViewController.h; sourceTree = "<group>"; };
-		35B236651F1CA0EB008A4AFC /* JumpPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JumpPageViewController.m; sourceTree = "<group>"; };
-		35B236661F1CA0EB008A4AFC /* libBankCardRecogPro.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libBankCardRecogPro.a; sourceTree = "<group>"; };
-		35B236671F1CA0EB008A4AFC /* libWintoneCardOCR.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWintoneCardOCR.a; sourceTree = "<group>"; };
-		35B236691F1CA0EB008A4AFC /* NSString+Trim.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Trim.h"; sourceTree = "<group>"; };
-		35B2366A1F1CA0EB008A4AFC /* NSString+Trim.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Trim.m"; sourceTree = "<group>"; };
-		35B2366B1F1CA0EB008A4AFC /* OCRMainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRMainView.h; sourceTree = "<group>"; };
-		35B2366C1F1CA0EB008A4AFC /* OCRMainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCRMainView.m; sourceTree = "<group>"; };
-		35B2366D1F1CA0EB008A4AFC /* OEMtest.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OEMtest.txt; sourceTree = "<group>"; };
-		35B2366E1F1CA0EB008A4AFC /* OverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OverView.h; sourceTree = "<group>"; };
-		35B2366F1F1CA0EB008A4AFC /* OverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OverView.m; sourceTree = "<group>"; };
-		35B236701F1CA0EB008A4AFC /* pntWTPENPDA.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = pntWTPENPDA.lib; sourceTree = "<group>"; };
-		35B236711F1CA0EB008A4AFC /* ProvName.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ProvName.txt; sourceTree = "<group>"; };
-		35B236721F1CA0EB008A4AFC /* SidIssueAuthority.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SidIssueAuthority.txt; sourceTree = "<group>"; };
-		35B236731F1CA0EB008A4AFC /* SlideLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlideLine.h; sourceTree = "<group>"; };
-		35B236741F1CA0EB008A4AFC /* Special.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Special.txt; sourceTree = "<group>"; };
-		35B236751F1CA0EB008A4AFC /* thocr_Driver_License.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = thocr_Driver_License.lib; sourceTree = "<group>"; };
-		35B236761F1CA0EB008A4AFC /* THOCR_LP.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_LP.lib; sourceTree = "<group>"; };
-		35B236771F1CA0EB008A4AFC /* THOCR_Num_Char.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_Num_Char.lib; sourceTree = "<group>"; };
-		35B236781F1CA0EB008A4AFC /* THOCR_PDA.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_PDA.lib; sourceTree = "<group>"; };
-		35B236791F1CA0EB008A4AFC /* THOCR_pspt.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = THOCR_pspt.lib; sourceTree = "<group>"; };
-		35B2367A1F1CA0EB008A4AFC /* UIViewExt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewExt.h; sourceTree = "<group>"; };
-		35B2367B1F1CA0EB008A4AFC /* UIViewExt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
-		35B2367E1F1CA0EB008A4AFC /* WintoneCardOCR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WintoneCardOCR.h; sourceTree = "<group>"; };
-		35B2367F1F1CA0EB008A4AFC /* WTCameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTCameraViewController.h; sourceTree = "<group>"; };
-		35B236801F1CA0EB008A4AFC /* WTCameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTCameraViewController.m; sourceTree = "<group>"; };
-		35B236811F1CA0EB008A4AFC /* WTOverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTOverView.h; sourceTree = "<group>"; };
-		35B236821F1CA0EB008A4AFC /* WTOverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTOverView.m; sourceTree = "<group>"; };
 		35B236B31F1CA112008A4AFC /* wtproject.lsc */ = {isa = PBXFileReference; lastKnownFileType = file; path = wtproject.lsc; sourceTree = "<group>"; };
 		35B236B51F1CA687008A4AFC /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = usr/lib/libxml2.tbd; sourceTree = SDKROOT; };
 		35B236B71F1CA695008A4AFC /* libiconv.2.4.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.2.4.0.tbd; path = usr/lib/libiconv.2.4.0.tbd; sourceTree = SDKROOT; };
@@ -188,6 +155,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3549957A1F1F33E1001B1C9F /* libXyzOCR.a in Frameworks */,
 				35B236CA1F1CA6FC008A4AFC /* CoreVideo.framework in Frameworks */,
 				35B236C81F1CA6F4008A4AFC /* CoreMedia.framework in Frameworks */,
 				35B236C61F1CA6EA008A4AFC /* AVFoundation.framework in Frameworks */,
@@ -199,8 +167,6 @@
 				35B236BA1F1CA6AB008A4AFC /* libstdc++.tbd in Frameworks */,
 				35B236B81F1CA695008A4AFC /* libiconv.2.4.0.tbd in Frameworks */,
 				35B236B61F1CA687008A4AFC /* libxml2.tbd in Frameworks */,
-				35B2369E1F1CA0EC008A4AFC /* libBankCardRecogPro.a in Frameworks */,
-				35B2369F1F1CA0EC008A4AFC /* libWintoneCardOCR.a in Frameworks */,
 				79E3843D6BD9E0D0B3D82DEE /* libPods-XyOCR.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -222,6 +188,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		354995371F1F33E1001B1C9F /* include */ = {
+			isa = PBXGroup;
+			children = (
+				354995381F1F33E1001B1C9F /* XyzOCR */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		354995381F1F33E1001B1C9F /* XyzOCR */ = {
+			isa = PBXGroup;
+			children = (
+				354995391F1F33E1001B1C9F /* Address.txt */,
+				3549953A1F1F33E1001B1C9F /* AdminDiv.txt */,
+				3549953B1F1F33E1001B1C9F /* AdminDivCode.txt */,
+				3549953C1F1F33E1001B1C9F /* back_camera_btn@2x.png */,
+				3549953D1F1F33E1001B1C9F /* back_camera_btn@3x.png */,
+				3549953E1F1F33E1001B1C9F /* BrandModel.txt */,
+				3549953F1F1F33E1001B1C9F /* CertificateDefine.h */,
+				354995401F1F33E1001B1C9F /* CertificateHeader.h */,
+				354995411F1F33E1001B1C9F /* CertificateInfo.h */,
+				354995421F1F33E1001B1C9F /* flash_camera_btn@2x.png */,
+				354995431F1F33E1001B1C9F /* flash_camera_btn@3x.png */,
+				354995441F1F33E1001B1C9F /* icon_ocr_return_black@2x.png */,
+				354995451F1F33E1001B1C9F /* icon_ocr_return_black@3x.png */,
+				354995461F1F33E1001B1C9F /* icon_pic@2x.png */,
+				354995471F1F33E1001B1C9F /* icon_pic@3x.png */,
+				354995481F1F33E1001B1C9F /* icon_scan@2x.png */,
+				354995491F1F33E1001B1C9F /* icon_scan@3x.png */,
+				3549954A1F1F33E1001B1C9F /* IDCARDANDROID.xml */,
+				3549954B1F1F33E1001B1C9F /* IDCARDANDROIDABROAD.xml */,
+				3549954C1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml */,
+				3549954D1F1F33E1001B1C9F /* IssueAndBirth.txt */,
+				3549954E1F1F33E1001B1C9F /* NSString+Trim.h */,
+				3549954F1F1F33E1001B1C9F /* NSString+Trim.m */,
+				354995501F1F33E1001B1C9F /* OCRMainView.h */,
+				354995511F1F33E1001B1C9F /* OEMtest.txt */,
+				354995521F1F33E1001B1C9F /* pntWTPENPDA.lib */,
+				354995531F1F33E1001B1C9F /* ProvName.txt */,
+				354995541F1F33E1001B1C9F /* SidIssueAuthority.txt */,
+				354995551F1F33E1001B1C9F /* Special.txt */,
+				354995561F1F33E1001B1C9F /* thocr_Driver_License.lib */,
+				354995571F1F33E1001B1C9F /* THOCR_LP.lib */,
+				354995581F1F33E1001B1C9F /* THOCR_Num_Char.lib */,
+				354995591F1F33E1001B1C9F /* THOCR_PDA.lib */,
+				3549955A1F1F33E1001B1C9F /* THOCR_pspt.lib */,
+				3549955B1F1F33E1001B1C9F /* XyzOCR.h */,
+			);
+			path = XyzOCR;
+			sourceTree = "<group>";
+		};
 		35B236011F1C98AB008A4AFC = {
 			isa = PBXGroup;
 			children = (
@@ -247,6 +263,8 @@
 		35B2360C1F1C98AB008A4AFC /* XyOCR */ = {
 			isa = PBXGroup;
 			children = (
+				354995341F1F33B5001B1C9F /* JumpPageViewController.h */,
+				354995351F1F33B5001B1C9F /* JumpPageViewController.m */,
 				35B236B31F1CA112008A4AFC /* wtproject.lsc */,
 				35B236401F1CA077008A4AFC /* libXyOCR */,
 				35B236101F1C98AB008A4AFC /* AppDelegate.h */,
@@ -291,66 +309,8 @@
 		35B236401F1CA077008A4AFC /* libXyOCR */ = {
 			isa = PBXGroup;
 			children = (
-				35B236411F1CA0EB008A4AFC /* Address.txt */,
-				35B236421F1CA0EB008A4AFC /* AdminDiv.txt */,
-				35B236431F1CA0EB008A4AFC /* AdminDivCode.txt */,
-				35B236461F1CA0EB008A4AFC /* back_camera_btn@2x.png */,
-				35B236471F1CA0EB008A4AFC /* back_camera_btn@3x.png */,
-				35B236481F1CA0EB008A4AFC /* BankCardRecogPro.h */,
-				35B236491F1CA0EB008A4AFC /* BankSlideLine.h */,
-				35B2364A1F1CA0EB008A4AFC /* BaseNavigationController.h */,
-				35B2364B1F1CA0EB008A4AFC /* BaseNavigationController.m */,
-				35B2364C1F1CA0EB008A4AFC /* BaseViewController.h */,
-				35B2364D1F1CA0EB008A4AFC /* BaseViewController.m */,
-				35B2364E1F1CA0EB008A4AFC /* BrandModel.txt */,
-				35B2364F1F1CA0EB008A4AFC /* CameraViewController.h */,
-				35B236501F1CA0EB008A4AFC /* CameraViewController.mm */,
-				35B236511F1CA0EB008A4AFC /* CertificateDefine.h */,
-				35B236521F1CA0EB008A4AFC /* CertificateHeader.h */,
-				35B236531F1CA0EB008A4AFC /* CertificateInfo.h */,
-				35B236541F1CA0EB008A4AFC /* CertificateInfo.m */,
-				35B236551F1CA0EB008A4AFC /* CheckViewController.h */,
-				35B236561F1CA0EB008A4AFC /* CheckViewController.m */,
-				35B236571F1CA0EB008A4AFC /* flash_camera_btn@2x.png */,
-				35B236581F1CA0EB008A4AFC /* flash_camera_btn@3x.png */,
-				35B236591F1CA0EB008A4AFC /* icon_ocr_return_black@2x.png */,
-				35B2365A1F1CA0EB008A4AFC /* icon_ocr_return_black@3x.png */,
-				35B2365B1F1CA0EB008A4AFC /* icon_pic@2x.png */,
-				35B2365C1F1CA0EB008A4AFC /* icon_pic@3x.png */,
-				35B2365D1F1CA0EB008A4AFC /* icon_scan@2x.png */,
-				35B2365E1F1CA0EB008A4AFC /* icon_scan@3x.png */,
-				35B2365F1F1CA0EB008A4AFC /* IDCARDANDROID.xml */,
-				35B236601F1CA0EB008A4AFC /* IDCARDANDROIDABROAD.xml */,
-				35B236611F1CA0EB008A4AFC /* IDCLASSIFIERANDROID.xml */,
-				35B236631F1CA0EB008A4AFC /* IssueAndBirth.txt */,
-				35B236641F1CA0EB008A4AFC /* JumpPageViewController.h */,
-				35B236651F1CA0EB008A4AFC /* JumpPageViewController.m */,
-				35B236661F1CA0EB008A4AFC /* libBankCardRecogPro.a */,
-				35B236671F1CA0EB008A4AFC /* libWintoneCardOCR.a */,
-				35B236691F1CA0EB008A4AFC /* NSString+Trim.h */,
-				35B2366A1F1CA0EB008A4AFC /* NSString+Trim.m */,
-				35B2366B1F1CA0EB008A4AFC /* OCRMainView.h */,
-				35B2366C1F1CA0EB008A4AFC /* OCRMainView.m */,
-				35B2366D1F1CA0EB008A4AFC /* OEMtest.txt */,
-				35B2366E1F1CA0EB008A4AFC /* OverView.h */,
-				35B2366F1F1CA0EB008A4AFC /* OverView.m */,
-				35B236701F1CA0EB008A4AFC /* pntWTPENPDA.lib */,
-				35B236711F1CA0EB008A4AFC /* ProvName.txt */,
-				35B236721F1CA0EB008A4AFC /* SidIssueAuthority.txt */,
-				35B236731F1CA0EB008A4AFC /* SlideLine.h */,
-				35B236741F1CA0EB008A4AFC /* Special.txt */,
-				35B236751F1CA0EB008A4AFC /* thocr_Driver_License.lib */,
-				35B236761F1CA0EB008A4AFC /* THOCR_LP.lib */,
-				35B236771F1CA0EB008A4AFC /* THOCR_Num_Char.lib */,
-				35B236781F1CA0EB008A4AFC /* THOCR_PDA.lib */,
-				35B236791F1CA0EB008A4AFC /* THOCR_pspt.lib */,
-				35B2367A1F1CA0EB008A4AFC /* UIViewExt.h */,
-				35B2367B1F1CA0EB008A4AFC /* UIViewExt.m */,
-				35B2367E1F1CA0EB008A4AFC /* WintoneCardOCR.h */,
-				35B2367F1F1CA0EB008A4AFC /* WTCameraViewController.h */,
-				35B236801F1CA0EB008A4AFC /* WTCameraViewController.m */,
-				35B236811F1CA0EB008A4AFC /* WTOverView.h */,
-				35B236821F1CA0EB008A4AFC /* WTOverView.m */,
+				354995371F1F33E1001B1C9F /* include */,
+				3549955C1F1F33E1001B1C9F /* libXyzOCR.a */,
 			);
 			path = libXyOCR;
 			sourceTree = "<group>";
@@ -495,38 +455,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35B236931F1CA0EC008A4AFC /* icon_ocr_return_black@3x.png in Resources */,
-				35B236891F1CA0EB008A4AFC /* back_camera_btn@3x.png in Resources */,
-				35B236A91F1CA0EC008A4AFC /* thocr_Driver_License.lib in Resources */,
-				35B236941F1CA0EC008A4AFC /* icon_pic@2x.png in Resources */,
-				35B236911F1CA0EC008A4AFC /* flash_camera_btn@3x.png in Resources */,
-				35B236AB1F1CA0EC008A4AFC /* THOCR_Num_Char.lib in Resources */,
+				3549955E1F1F33E1001B1C9F /* AdminDiv.txt in Resources */,
+				354995681F1F33E1001B1C9F /* icon_pic@3x.png in Resources */,
+				354995751F1F33E1001B1C9F /* thocr_Driver_License.lib in Resources */,
+				354995691F1F33E1001B1C9F /* icon_scan@2x.png in Resources */,
+				354995611F1F33E1001B1C9F /* back_camera_btn@3x.png in Resources */,
+				354995771F1F33E1001B1C9F /* THOCR_Num_Char.lib in Resources */,
+				354995641F1F33E1001B1C9F /* flash_camera_btn@3x.png in Resources */,
+				354995621F1F33E1001B1C9F /* BrandModel.txt in Resources */,
+				354995631F1F33E1001B1C9F /* flash_camera_btn@2x.png in Resources */,
+				354995671F1F33E1001B1C9F /* icon_pic@2x.png in Resources */,
+				3549956E1F1F33E1001B1C9F /* IssueAndBirth.txt in Resources */,
+				3549956D1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml in Resources */,
 				35B236B41F1CA112008A4AFC /* wtproject.lsc in Resources */,
+				354995731F1F33E1001B1C9F /* SidIssueAuthority.txt in Resources */,
+				354995721F1F33E1001B1C9F /* ProvName.txt in Resources */,
+				354995701F1F33E1001B1C9F /* OEMtest.txt in Resources */,
+				3549956A1F1F33E1001B1C9F /* icon_scan@3x.png in Resources */,
 				35B2361D1F1C98AB008A4AFC /* LaunchScreen.storyboard in Resources */,
 				35B2361A1F1C98AB008A4AFC /* Assets.xcassets in Resources */,
-				35B236921F1CA0EC008A4AFC /* icon_ocr_return_black@2x.png in Resources */,
-				35B236881F1CA0EB008A4AFC /* back_camera_btn@2x.png in Resources */,
-				35B2369C1F1CA0EC008A4AFC /* IssueAndBirth.txt in Resources */,
-				35B236951F1CA0EC008A4AFC /* icon_pic@3x.png in Resources */,
-				35B236851F1CA0EB008A4AFC /* AdminDiv.txt in Resources */,
-				35B236A71F1CA0EC008A4AFC /* SidIssueAuthority.txt in Resources */,
-				35B236A61F1CA0EC008A4AFC /* ProvName.txt in Resources */,
-				35B236A31F1CA0EC008A4AFC /* OEMtest.txt in Resources */,
-				35B236961F1CA0EC008A4AFC /* icon_scan@2x.png in Resources */,
-				35B236971F1CA0EC008A4AFC /* icon_scan@3x.png in Resources */,
-				35B236981F1CA0EC008A4AFC /* IDCARDANDROID.xml in Resources */,
-				35B2369A1F1CA0EC008A4AFC /* IDCLASSIFIERANDROID.xml in Resources */,
-				35B236A81F1CA0EC008A4AFC /* Special.txt in Resources */,
-				35B236861F1CA0EB008A4AFC /* AdminDivCode.txt in Resources */,
-				35B236AA1F1CA0EC008A4AFC /* THOCR_LP.lib in Resources */,
-				35B236A51F1CA0EC008A4AFC /* pntWTPENPDA.lib in Resources */,
-				35B2368C1F1CA0EB008A4AFC /* BrandModel.txt in Resources */,
-				35B236AD1F1CA0EC008A4AFC /* THOCR_pspt.lib in Resources */,
-				35B236901F1CA0EC008A4AFC /* flash_camera_btn@2x.png in Resources */,
 				35B236181F1C98AB008A4AFC /* Main.storyboard in Resources */,
-				35B236841F1CA0EB008A4AFC /* Address.txt in Resources */,
-				35B236991F1CA0EC008A4AFC /* IDCARDANDROIDABROAD.xml in Resources */,
-				35B236AC1F1CA0EC008A4AFC /* THOCR_PDA.lib in Resources */,
+				354995741F1F33E1001B1C9F /* Special.txt in Resources */,
+				354995661F1F33E1001B1C9F /* icon_ocr_return_black@3x.png in Resources */,
+				354995761F1F33E1001B1C9F /* THOCR_LP.lib in Resources */,
+				354995711F1F33E1001B1C9F /* pntWTPENPDA.lib in Resources */,
+				354995651F1F33E1001B1C9F /* icon_ocr_return_black@2x.png in Resources */,
+				354995791F1F33E1001B1C9F /* THOCR_pspt.lib in Resources */,
+				3549956C1F1F33E1001B1C9F /* IDCARDANDROIDABROAD.xml in Resources */,
+				3549955F1F1F33E1001B1C9F /* AdminDivCode.txt in Resources */,
+				3549955D1F1F33E1001B1C9F /* Address.txt in Resources */,
+				354995601F1F33E1001B1C9F /* back_camera_btn@2x.png in Resources */,
+				3549956B1F1F33E1001B1C9F /* IDCARDANDROID.xml in Resources */,
+				354995781F1F33E1001B1C9F /* THOCR_PDA.lib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -599,21 +559,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35B236A11F1CA0EC008A4AFC /* NSString+Trim.m in Sources */,
-				35B2368F1F1CA0EB008A4AFC /* CheckViewController.m in Sources */,
-				35B2368B1F1CA0EB008A4AFC /* BaseViewController.m in Sources */,
-				35B2368D1F1CA0EB008A4AFC /* CameraViewController.mm in Sources */,
-				35B2368E1F1CA0EB008A4AFC /* CertificateInfo.m in Sources */,
-				35B236A41F1CA0EC008A4AFC /* OverView.m in Sources */,
-				35B236AE1F1CA0EC008A4AFC /* UIViewExt.m in Sources */,
-				35B2369D1F1CA0EC008A4AFC /* JumpPageViewController.m in Sources */,
 				35B236151F1C98AB008A4AFC /* ViewController.m in Sources */,
-				35B236B01F1CA0EC008A4AFC /* WTCameraViewController.m in Sources */,
 				35B236121F1C98AB008A4AFC /* AppDelegate.m in Sources */,
-				35B236A21F1CA0EC008A4AFC /* OCRMainView.m in Sources */,
+				3549956F1F1F33E1001B1C9F /* NSString+Trim.m in Sources */,
 				35B2360F1F1C98AB008A4AFC /* main.m in Sources */,
-				35B2368A1F1CA0EB008A4AFC /* BaseNavigationController.m in Sources */,
-				35B236B11F1CA0EC008A4AFC /* WTOverView.m in Sources */,
+				354995361F1F33B5001B1C9F /* JumpPageViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
