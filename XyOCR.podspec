@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   #s.exclude_files = "Classes/Exclude"
 
-  #s.public_header_files = "XyOCR/libXyOCR/include/XyzOCR/*.h"
+  s.public_header_files = "XyOCR/libXyOCR/include/XyzOCR/*.h"
 
 
 
