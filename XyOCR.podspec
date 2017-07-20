@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.author             = { "huoxinren" => "yy_lx@qq.com" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/huoxinren/XyOCR.git", :tag => "1.0.3" }
-  s.source_files  = "XyOCR/libXyOCR/include/XyzOCR/*.h}"
+  s.source_files  = "XyOCR/libXyOCR/include/XyzOCR/*.h"
   s.resources = "XyOCR/libXyOCR/include/XyzOCR/*.png", "XyOCR/libXyOCR/include/XyzOCR/*.txt", "XyOCR/libXyOCR/include/XyzOCR/*.xml", "XyOCR/libXyOCR/include/XyzOCR/*.lib", "XyOCR/libXyOCR/*.a"
   s.requires_arc = true
   s.frameworks = "CoreVideo", "CoreMedia", "AVFoundation", "AudioToolbox", "ImageIO", "UIKit", "Foundation", "CoreGraphics"
