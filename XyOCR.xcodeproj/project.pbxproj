@@ -721,7 +721,7 @@
 					"$(PROJECT_DIR)/XyOCR/libXyOCR",
 					"$(PROJECT_DIR)/XyOCR",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.XyOCR;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lefu.pos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -741,7 +741,7 @@
 					"$(PROJECT_DIR)/XyOCR/libXyOCR",
 					"$(PROJECT_DIR)/XyOCR",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.XyOCR;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lefu.pos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
