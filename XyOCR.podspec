@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "ocr function"
   s.homepage     = "https://github.com/huoxinren/XyOCR"
-  s.license      = "MIT"
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "huoxinren" => "yy_lx@qq.com" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/huoxinren/XyOCR.git", :tag => "1.0.0" }
