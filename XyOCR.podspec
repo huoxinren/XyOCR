@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |s|
   s.name         = "XyOCR"
-  s.version      = “1.0.2”
+  s.version      = "1.0.3"
   s.summary      = "ocr function"
   s.homepage     = "https://github.com/huoxinren/XyOCR"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "huoxinren" => "yy_lx@qq.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/huoxinren/XyOCR.git", :tag => “1.0.2” }
-  s.source_files  = "XyOCR/libXyOCR/include/XyzOCR/*.h"
+  s.source       = { :git => "https://github.com/huoxinren/XyOCR.git", :tag => "1.0.3" }
+  s.source_files  = "XyOCR/libXyOCR/include/XyzOCR/*.{h,m}"
   s.resources = "XyOCR/libXyOCR/include/XyzOCR/*.png", "XyOCR/libXyOCR/include/XyzOCR/*.txt", "XyOCR/libXyOCR/include/XyzOCR/*.xml", "XyOCR/libXyOCR/include/XyzOCR/*.lib", "XyOCR/libXyOCR/*.a"
   s.requires_arc = true
   s.frameworks = "CoreVideo", "CoreMedia", "AVFoundation", "AudioToolbox", "ImageIO", "UIKit", "Foundation", "CoreGraphics"
