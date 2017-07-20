@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3546F9091F20AFFF00F0607E /* NSString+Trim.m in Sources */ = {isa = PBXBuildFile; fileRef = 3546F9081F20AFFF00F0607E /* NSString+Trim.m */; };
 		354995361F1F33B5001B1C9F /* JumpPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 354995351F1F33B5001B1C9F /* JumpPageViewController.m */; };
 		3549955D1F1F33E1001B1C9F /* Address.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995391F1F33E1001B1C9F /* Address.txt */; };
 		3549955E1F1F33E1001B1C9F /* AdminDiv.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3549953A1F1F33E1001B1C9F /* AdminDiv.txt */; };
@@ -78,6 +79,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3546F9081F20AFFF00F0607E /* NSString+Trim.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Trim.m"; sourceTree = "<group>"; };
 		354995341F1F33B5001B1C9F /* JumpPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JumpPageViewController.h; sourceTree = "<group>"; };
 		354995351F1F33B5001B1C9F /* JumpPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JumpPageViewController.m; sourceTree = "<group>"; };
 		354995391F1F33E1001B1C9F /* Address.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Address.txt; sourceTree = "<group>"; };
@@ -197,6 +199,7 @@
 		354995381F1F33E1001B1C9F /* XyzOCR */ = {
 			isa = PBXGroup;
 			children = (
+				3546F9081F20AFFF00F0607E /* NSString+Trim.m */,
 				354995391F1F33E1001B1C9F /* Address.txt */,
 				3549953A1F1F33E1001B1C9F /* AdminDiv.txt */,
 				3549953B1F1F33E1001B1C9F /* AdminDivCode.txt */,
@@ -558,6 +561,7 @@
 			files = (
 				35B236151F1C98AB008A4AFC /* ViewController.m in Sources */,
 				35B236121F1C98AB008A4AFC /* AppDelegate.m in Sources */,
+				3546F9091F20AFFF00F0607E /* NSString+Trim.m in Sources */,
 				35B2360F1F1C98AB008A4AFC /* main.m in Sources */,
 				354995361F1F33B5001B1C9F /* JumpPageViewController.m in Sources */,
 			);
