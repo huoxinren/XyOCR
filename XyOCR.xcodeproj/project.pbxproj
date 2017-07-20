@@ -26,7 +26,6 @@
 		3549956C1F1F33E1001B1C9F /* IDCARDANDROIDABROAD.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3549954B1F1F33E1001B1C9F /* IDCARDANDROIDABROAD.xml */; };
 		3549956D1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3549954C1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml */; };
 		3549956E1F1F33E1001B1C9F /* IssueAndBirth.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3549954D1F1F33E1001B1C9F /* IssueAndBirth.txt */; };
-		3549956F1F1F33E1001B1C9F /* NSString+Trim.m in Sources */ = {isa = PBXBuildFile; fileRef = 3549954F1F1F33E1001B1C9F /* NSString+Trim.m */; };
 		354995701F1F33E1001B1C9F /* OEMtest.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995511F1F33E1001B1C9F /* OEMtest.txt */; };
 		354995711F1F33E1001B1C9F /* pntWTPENPDA.lib in Resources */ = {isa = PBXBuildFile; fileRef = 354995521F1F33E1001B1C9F /* pntWTPENPDA.lib */; };
 		354995721F1F33E1001B1C9F /* ProvName.txt in Resources */ = {isa = PBXBuildFile; fileRef = 354995531F1F33E1001B1C9F /* ProvName.txt */; };
@@ -103,7 +102,6 @@
 		3549954C1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = IDCLASSIFIERANDROID.xml; sourceTree = "<group>"; };
 		3549954D1F1F33E1001B1C9F /* IssueAndBirth.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IssueAndBirth.txt; sourceTree = "<group>"; };
 		3549954E1F1F33E1001B1C9F /* NSString+Trim.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Trim.h"; sourceTree = "<group>"; };
-		3549954F1F1F33E1001B1C9F /* NSString+Trim.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Trim.m"; sourceTree = "<group>"; };
 		354995501F1F33E1001B1C9F /* OCRMainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCRMainView.h; sourceTree = "<group>"; };
 		354995511F1F33E1001B1C9F /* OEMtest.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OEMtest.txt; sourceTree = "<group>"; };
 		354995521F1F33E1001B1C9F /* pntWTPENPDA.lib */ = {isa = PBXFileReference; lastKnownFileType = file; path = pntWTPENPDA.lib; sourceTree = "<group>"; };
@@ -221,7 +219,6 @@
 				3549954C1F1F33E1001B1C9F /* IDCLASSIFIERANDROID.xml */,
 				3549954D1F1F33E1001B1C9F /* IssueAndBirth.txt */,
 				3549954E1F1F33E1001B1C9F /* NSString+Trim.h */,
-				3549954F1F1F33E1001B1C9F /* NSString+Trim.m */,
 				354995501F1F33E1001B1C9F /* OCRMainView.h */,
 				354995511F1F33E1001B1C9F /* OEMtest.txt */,
 				354995521F1F33E1001B1C9F /* pntWTPENPDA.lib */,
@@ -561,7 +558,6 @@
 			files = (
 				35B236151F1C98AB008A4AFC /* ViewController.m in Sources */,
 				35B236121F1C98AB008A4AFC /* AppDelegate.m in Sources */,
-				3549956F1F1F33E1001B1C9F /* NSString+Trim.m in Sources */,
 				35B2360F1F1C98AB008A4AFC /* main.m in Sources */,
 				354995361F1F33B5001B1C9F /* JumpPageViewController.m in Sources */,
 			);
