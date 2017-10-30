@@ -97,15 +97,15 @@
 
 - (void)buttonIDMethod:(UIButton *)sender
 {
-    OCRMainView *myOCRView = [[OCRMainView alloc]initViewWithCardType:0 source:1 ifHaveCheckPage:YES ifCheckViewNoEdit:NO ifShowUserName:YES];
-    [myOCRView setBIfJumpPageMyDo:YES];
+    OCRMainView *myOCRView = [[OCRMainView alloc]initViewWithCardType:OcrType_ID source:OcrSourceType_OnlyOcr ifHaveCheckPage:YES ifCheckViewNoEdit:NO ifShowUserName:YES];
+    [myOCRView setBIfJumpPageMyDo:NO];
     [self.view addSubview:myOCRView];
     [myOCRView show];
 }
 
 - (void)buttonBankCardMethod:(UIButton *)sender
 {
-    OCRMainView *myOCRView = [[OCRMainView alloc]initViewWithCardType:1 ifHaveCheckPage:YES];
+    OCRMainView *myOCRView = [[OCRMainView alloc]initViewWithCardType:OcrType_Bank ifHaveCheckPage:YES];
     [self.view addSubview:myOCRView];
     [myOCRView show];
 }

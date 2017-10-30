@@ -350,12 +350,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 35B236371F1C98AB008A4AFC /* Build configuration list for PBXNativeTarget "XyOCR" */;
 			buildPhases = (
-				AC6A2A8F68A3607B5C16D591 /* Check Pods Manifest.lock */,
+				AC6A2A8F68A3607B5C16D591 /* [CP] Check Pods Manifest.lock */,
 				35B236061F1C98AB008A4AFC /* Sources */,
 				35B236071F1C98AB008A4AFC /* Frameworks */,
 				35B236081F1C98AB008A4AFC /* Resources */,
-				39A41AFDC6DD0E6245044D6A /* Embed Pods Frameworks */,
-				B5F64A6DD2EFA5B6A454A361 /* Copy Pods Resources */,
+				39A41AFDC6DD0E6245044D6A /* [CP] Embed Pods Frameworks */,
+				B5F64A6DD2EFA5B6A454A361 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -413,7 +413,7 @@
 				TargetAttributes = {
 					35B236091F1C98AB008A4AFC = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = S68EFV8SE8;
+						DevelopmentTeam = 6XTEDDC6DD;
 						ProvisioningStyle = Automatic;
 					};
 					35B236221F1C98AB008A4AFC = {
@@ -507,14 +507,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		39A41AFDC6DD0E6245044D6A /* Embed Pods Frameworks */ = {
+		39A41AFDC6DD0E6245044D6A /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Embed Pods Frameworks";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -522,29 +522,32 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-XyOCR/Pods-XyOCR-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		AC6A2A8F68A3607B5C16D591 /* Check Pods Manifest.lock */ = {
+		AC6A2A8F68A3607B5C16D591 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-XyOCR-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		B5F64A6DD2EFA5B6A454A361 /* Copy Pods Resources */ = {
+		B5F64A6DD2EFA5B6A454A361 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -715,7 +718,7 @@
 			baseConfigurationReference = B4F597B5DDC6B908FC172CAC /* Pods-XyOCR.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S68EFV8SE8;
+				DEVELOPMENT_TEAM = 6XTEDDC6DD;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = XyOCR/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
@@ -735,7 +738,7 @@
 			baseConfigurationReference = D73DA18F657379DFC5CDF0BA /* Pods-XyOCR.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S68EFV8SE8;
+				DEVELOPMENT_TEAM = 6XTEDDC6DD;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = XyOCR/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;

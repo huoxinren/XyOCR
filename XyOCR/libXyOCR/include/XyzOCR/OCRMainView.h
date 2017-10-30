@@ -12,8 +12,15 @@
 
 @optional
 
-//chooseType: 0-选择扫描  1-选择相册
+//chooseType: 0-选择扫描  1-选择相册，目前选择相册未用
 - (void)clickChooseView:(int)chooseType;
+
+//身份证扫描返回
+- (void)afterGetIDInfoWithError:(NSString *)error;
+
+//银行卡扫描返回
+- (void)afterGetBankInfoWithError:(NSString *)error;
+
 
 @end
 
@@ -33,7 +40,7 @@
 
 @property(nonatomic, assign) BOOL  bIfJumpPageMyDo;     //是否识别后跳入自定义页面
 
-@property (strong, nonatomic) NSMutableDictionary *dictionaryCertificateInfo;
+@property (strong, nonatomic) NSMutableDictionary *dictionaryCertificateInfo;   //保存扫描的信息用
 
 // type 0-二代身份证 1-银行卡 ifHaveCheckPage
 - (id)initViewWithCardType:(int)type ifHaveCheckPage:(BOOL)ifHaveCheckPage;
