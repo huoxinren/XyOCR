@@ -8,13 +8,13 @@
 
 Pod::Spec.new do |s|
   s.name         = "XyOCR"
-  s.version      = "1.0.8"
+  s.version      = "1.0.9"
   s.summary      = "ocr function"
   s.homepage     = "https://github.com/huoxinren/XyOCR"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "huoxinren" => "yy_lx@qq.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/huoxinren/XyOCR.git", :tag => "1.0.8" }
+  s.source       = { :git => "https://github.com/huoxinren/XyOCR.git", :tag => "1.0.9" }
   s.source_files  = "XyOCR/libXyOCR/include/XyzOCR/*.h"
   s.resources = "XyOCR/libXyOCR/include/XyzOCR/*.png", "XyOCR/libXyOCR/include/XyzOCR/*.txt", "XyOCR/libXyOCR/include/XyzOCR/*.xml"
   s.requires_arc = true
